@@ -41,13 +41,31 @@ Al finalizar, el botón “Nuevo juego” permite reiniciar todo desde cero.
 ├── assets/             // Recursos visuales
 └── README.md           // Este archivo
 ```
+## 🎮 Como jugarlo
 
-## 🚀 Cómo jugar
+1. Abre el link de la pagina con el juego
+```bash
+    https://mind0t.github.io/GameNoSecret/
+```
+2. Ingresa un numero, y trata de adivinar en el menor toma en cuenta el rango en el que se encuentra el número y la cantidad de intentos.
+   
+3. Una vez que hayas logrado adivinar o que se hayan terminado tus intentos, puedes iniciar un nuevo juego.
 
-1. Abre el archivo `index.html` en tu navegador.
-2. Ingresa un número dentro del rango mostrado.
-3. Adivina el número secreto en el menor número de intentos posible.
-4. ¡Reinicia para volver a jugar con un nuevo número y rango aleatorio!
+4. Puedes compartir el link y probarlo desde cualquier dispositivo, Diviertete!!!
+
+
+## 🚀 Cómo ver codigo y probarlo
+
+1. Clona este repositorio:
+``` bash
+    https://github.com/Mind0T/GameNoSecret.git
+```
+2. Abre el archivo index.html
+ 
+3. Ingresa un numero, toma en cuenta el rango en el que se encuentra el número y la cantidad de intentos.
+
+4. Puedes compartir el link y probarlo desde cualquier dispositivo, Diviertete!!!
+
 
 ## 💡 Posibles mejoras futuras
 
